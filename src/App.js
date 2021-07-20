@@ -1,11 +1,12 @@
 import React from 'react'
+import ExpanseItem from './components/ExpanseItem'
 import GlobalStyle from './GlobalStyles'
 
 const App = () => {
     return (
         <div>
             <GlobalStyle />
-            app
+            <ExpanseItem />
         </div>
     )
 }

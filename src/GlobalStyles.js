@@ -9,13 +9,14 @@ const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
     }
-    body {
-        background-color: #fafafa;
-    }
-    
+
     a {
         text-decoration: none;
         color: unset;
+    }
+
+    body {
+        background-color: #dfdfdf;
     }
 `
 
